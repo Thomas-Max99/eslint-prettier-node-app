@@ -1,6 +1,6 @@
 <h3 align="center"> Setup a Node.js Application with Eslint and Prettier.</h3>
 
-<h6> This repository is the result of the article :" How to Setup a Node.js Application with Eslint and Prettier ". You can check it on <a href="">Medium</a></h6>
+#### This repository is the result of the article :" How to Setup a Node.js Application with Eslint and Prettier ". You can check it on <a href="https://medium.com/@merndev/how-to-set-up-node-js-application-with-eslint-and-prettier-b1b7994db69f">Medium</a></h6>
 
 ### Check if the formatting matches this Prettier’s rules by using this command:
 
